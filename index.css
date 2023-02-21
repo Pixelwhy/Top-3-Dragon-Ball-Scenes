@@ -3,11 +3,14 @@ body {
   color: rgb(3, 4, 65);
 }
 h1 {
+  display: block;
   text-align: center;
   border: solid 5px rgb(3, 4, 65);
   border-radius: 12px;
   background-color: cornsilk;
   width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
 p{
   display: block;
