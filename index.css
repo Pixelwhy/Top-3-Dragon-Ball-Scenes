@@ -19,7 +19,7 @@ p{
   border-radius: 12px;
   text-align: center;
   background-color: cornsilk;
-  width: 370px;
+  width: 75%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -30,7 +30,7 @@ header{
   border-radius: 8px;
   text-align: center;
   background-color:beige;
-  width: 370px;
+  width: 75%;
   margin-right: auto;
   margin-left: auto;
 }
@@ -41,7 +41,7 @@ footer{
   border-radius: 8px;
   text-align: center;
   background-color: bisque;
-  width: 370px;
+  width: 75%;
   margin-right: auto;
   margin-left: auto;
 }
